@@ -1,5 +1,5 @@
 # HwangSeonHyeok
-### Education
+## Education
 > Korea Aerospace Univ. (2018.03 ~ 2024.02)  
 > Software Major
 
