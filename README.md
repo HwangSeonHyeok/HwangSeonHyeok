@@ -3,7 +3,7 @@
 > Korea Aerospace Univ. (2018.03 ~ 2024.02)  
 > Software Major
 
-> SSAFY (2024.07 ~)  
+> SSAFY (2024.07 ~ 2025.06)  
 > MobileTrack
 ## Skills
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
